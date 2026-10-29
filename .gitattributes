@@ -1,0 +1,6 @@
+# 仓库内统一用 LF 存储；Windows 脚本检出时转 CRLF，避免 clone 后字节与作者不同
+* text=auto eol=lf
+
+*.ps1  text eol=crlf
+*.cmd  text eol=crlf
+*.md   text eol=lf
