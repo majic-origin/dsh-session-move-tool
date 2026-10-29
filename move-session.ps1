@@ -1,4 +1,4 @@
-#Requires -Version 5.1
+﻿#Requires -Version 5.1
 <#
 .SYNOPSIS
     DSH 会话清单与只读体检。不写入、不移动、不改名任何文件。

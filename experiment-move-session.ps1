@@ -1,4 +1,4 @@
-#Requires -Version 5.1
+﻿#Requires -Version 5.1
 <#
 .SYNOPSIS
     迁移 DSH 会话到另一个工作区。改写 zstd header 帧 + 同步索引与登记，带完整备份与一键还原。

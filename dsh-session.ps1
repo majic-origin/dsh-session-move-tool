@@ -1,4 +1,4 @@
-#Requires -Version 5.1
+﻿#Requires -Version 5.1
 <#
 .SYNOPSIS
     DSH 会话工具统一入口。双击、拖文件夹、命令行三种启动方式都能用，一个窗口看完全部会话。
